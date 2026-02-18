@@ -8,12 +8,19 @@ This repository contains my submission for the 2026 ASA South Florida Student Da
 
 📂 Project Structure
 Plaintext
+
 ├── data/               # Raw and processed datasets (train.csv, test.csv)
+
 ├── notebooks/          # Jupyter notebooks
+
 ├── src/                # Script files for data cleaning and feature engineering
+
 ├── report/             # Final 4-page PDF report
+
 ├── pred.csv            # Final predictions for the test set
+
 └── README.md           # Project overview (this file)
+
 🔬 Methodology
 My approach focuses on leveraging the NHANES variables to build a robust predictive model. Key steps include:
 
