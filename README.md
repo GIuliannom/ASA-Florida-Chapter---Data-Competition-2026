@@ -33,8 +33,9 @@ Validation: Utilizing 5-fold cross-validation on the training set (1,000 observa
 
 
 ## Results Summary
-Validation for XGBoost RMSE: 4.72 \n
-Validation for Bayesian Regression: 5.63 \n
+Validation for XGBoost RMSE: 4.72
+
+Validation for Bayesian Regression: 5.63 
 
 ## Authors
 Giulianno Gasparato, Juhwan Park
