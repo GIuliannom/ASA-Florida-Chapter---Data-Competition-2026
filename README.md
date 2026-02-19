@@ -15,7 +15,7 @@ Plaintext
 
 ├── src/                # Script files for data cleaning and feature engineering
 
-├── report/             # Final 4-page PDF report
+├── report/             # Final PDF report
 
 ├── pred.csv            # Final predictions for the test set
 
